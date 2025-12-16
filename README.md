@@ -4,8 +4,9 @@ The original driver binaries are unchanged; only the installer Distribution scri
 
 Provided for educational and compatibility testing purposes.
 
-
-
 This package is a modified installer derived from HP software.
 All rights belong to HP. This repository is not affiliated with or endorsed by HP.
 Use at your own risk. Redistribution may violate HP’s license in some regions.
+
+
+VIRUS TOTAL: https://www.virustotal.com/gui/file/b913e6e79330b7c922585fca035ce62e0e74b54b3aa79689a9441483460c3fb3?nocache=1
